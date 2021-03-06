@@ -1,0 +1,167 @@
+
+
+.logo{
+    background-color: rgb(245, 241, 241);
+}
+.hd:hover{
+color: lightgrey;
+opacity: 0.3;
+}
+.ho{
+    background-color: white;
+    position:sticky;
+    top: 0px;
+    width: 100%;
+    height: 85px;
+}
+.header{
+    display: inline-flex;
+    height: 90px;
+    margin-left: 180px;
+}
+.home{
+    width: 140px;
+    height: 105px;
+    margin-top: -8px;
+    margin-left: 25px;   
+}
+
+.red:hover{
+    /* color: red; */
+    opacity: 0.6;
+}
+.orange:hover{
+    opacity: 0.6;
+}
+.yellow:hover{
+    opacity: 0.6;
+}
+.green:hover{
+    opacity: 0.6;
+}
+.lightblue:hover{
+    opacity: 0.6;
+}
+.blue:hover{
+    opacity: 0.6;
+}
+
+.white{
+    background-color: white;
+    height: 780px;
+    width: 850px;
+    margin-left: 212px;
+}
+.test{
+    width: 62%;
+    height: 64%;
+}
+.test:hover{
+    opacity: 0.8;
+    height: 65%;
+    }
+
+.present{
+    
+    width: 35%;
+    height:35%;
+
+}
+.present:hover{
+    opacity: 0.8;
+    height: 36%;
+}
+
+.return{
+    width: 30%;
+    height:30%;
+}
+.return:hover{
+    opacity: 0.8;
+    height: 31%;
+}
+
+
+.legend{
+    width: 32%;
+    height:32%;
+    margin-top: -237px;
+    margin-left: 250px;
+}
+.legend:hover{
+    opacity: 0.8;
+    height: 33%;
+}
+/* .journey{
+    width: 35%;
+    height: 20%;
+    margin-top:-160%;
+    margin-left:530px;
+   
+} */
+
+.season{
+    margin-top: -270px;
+    margin-left: 530px;
+    width: 35%;
+    height: 35%;
+}
+.season:hover{
+    opacity: 0.8;
+    height: 36%;
+}
+.pyr{
+    width: 102%;
+    height: 100%;
+}
+.explore{
+    margin-left: 800px;
+    width: 25%;
+    height: 15%;
+}
+.black{
+    background-color: grey;
+    height: 360px;
+    width: 101%; 
+}
+
+.company h2 {
+    color: #dcdcdc;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left: 200px;
+}
+.company ul li {
+    color: #616161;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.company ul {
+    margin: 0px;
+    padding: 0px;
+}
+.company ul li{
+    margin: 0px 0px 7px 0px;
+    padding: 0px;
+}
+.company ul li:hover{
+    color: white;
+}
+.what ul li:hover{
+    color: white;
+}
+.what ul{
+    margin-left: 200px;
+}
+.icon{
+    margin-top: -230px;
+    margin-left: 550px;
+    font-color: red;
+   
+}
+.privacy{
+    margin-top: -100px;
+    margin-left: 800px;
+}
+.a:hover{
+    opacity: 0.7;
+}
